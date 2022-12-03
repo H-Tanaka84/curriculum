@@ -1,0 +1,29 @@
+(1)MACアドレス:AAAA.AAAA.AAAA
+
+AA AA AA FF FE AA AA AA
+
+2進数に変換　→　1010 1010
+
+2進数の7ビット目を反転するため　→　1010 1000
+
+答え: A8AA:AAFF:FEAA:AAAA
+
+(2)MACアドレス:9876.5432.10FE
+
+98 76 54 FF FE 32 10 FE
+
+2進数に変換　→　1001 1000
+
+2進数の7ビット目を反転するため　→　1001 1010
+
+答え:9A76:54FF:FE32:10FE
+
+(3)MACアドレス:FFFF.FFFF.FFFF
+
+FF FF FF FF FE FF FF FF
+
+2進数に変換　→　1111 1111
+
+2進数の7ビット目を反転するため　→　1111 1101
+
+答え:FDFF:FFFF:FEFF:FFFF
